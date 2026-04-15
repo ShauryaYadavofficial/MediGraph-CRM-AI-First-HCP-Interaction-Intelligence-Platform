@@ -94,3 +94,17 @@ hcp-crm/
     └── package.json
 📄 License
 This project is submitted as part of the Technical Assignment for the Python Developer Role.
+
+
+
+
+
+
+Also this does not have the env file as api key trading issue
+the env file is 
+GROQ_API_KEY=YOUR_GROQ_API_KEY_HERE
+DATABASE_URL=postgresql://X@localhost:5432/hcp_crm
+ALLOWED_ORIGINS=http://localhost:3000
+
+
+The x in "DATABASE_URL=postgresql://X@localhost:5432/hcp_crm" represents your username:password of postgre
